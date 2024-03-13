@@ -1,1 +1,1 @@
-# Atsiskaitomas darbas
+# Atsiskaitomasis darbas
